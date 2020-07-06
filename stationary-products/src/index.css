@@ -1,0 +1,45 @@
+body {
+  background-image: url(https://www.publicdomainpictures.net/pictures/50000/velka/nature-background-31.jpg);
+  height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: snow;
+  text-align:center;
+  font-style: oblique;
+  margin-bottom: 10%;
+
+}
+ div .name {
+   text-align: center;
+   font-family: cursive;
+   font-size: 28px;
+   color: gold;
+   font-weight: bolder;
+  
+}
+div .desc{
+  text-align: center;
+  font-family: cursive;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+}
+div .price{
+  text-align: center;
+  font-family: cursive;
+  font-size: 15px;
+  color: gold;
+  font-weight: bolder;
+  
+}
+
+div .img {
+ margin-left: 32%;
+ height: 0%;
+ width: 0%;
+ 
+}
